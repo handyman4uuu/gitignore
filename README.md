@@ -1,4 +1,4 @@
-# A collection of `.gitignore` templates
+59803b51ec500dabd9af57c1ac6c166b78498bc4# A collection of `.gitignore` templates
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
 We use this list to populate the `.gitignore` template choosers available
